@@ -1,0 +1,19 @@
+NEON COAST - SAMOSTATNA WINDOWS VERZE
+
+Spust NeonCoastGame.exe ve slozce Neon Coast EXE/Windows na plose.
+Zastupce Neon Coast na plose spousti stejne EXE.
+
+Neni potreba Unreal Editor ani puvodni projekt.
+EXE ale neni jediny soubor hry: ponechej celou slozku Windows
+vcetne podslozek Engine a NeonCoastGame pohromade.
+Chces-li hru presunout na jiny pocitac, prenes celou tuto slozku.
+
+Pokud novy pocitac hlasi chybejici behove knihovny, soucasti baleni
+je instalator v Engine/Extras/Redist/en-us/vc_redist.x64.exe.
+Instalaci spust pouze pokud je potreba.
+
+Upravitelny puvodni projekt a zdrojove modely zustaly na plose
+ve slozce Neon Coast hra. Balena verze obsahuje herni data,
+nikoli zdrojovy kod a soubory Blenderu.
+
+Sestaveni a baleni byly provedene bez hrani hry.

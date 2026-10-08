@@ -1,0 +1,86 @@
+﻿{
+    "FileVersion":  3,
+    "EngineAssociation":  "5.8",
+    "Category":  "",
+    "Description":  "",
+    "Modules":  [
+                    {
+                        "Name":  "NeonCoastGame",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default"
+                    }
+                ],
+    "Plugins":  [
+                    {
+                        "Name":  "ModelingToolsEditorMode",
+                        "Enabled":  true,
+                        "TargetAllowList":  [
+                                                "Editor"
+                                            ]
+                    },
+                    {
+                        "Name":  "GameplayStateTree",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "NeonCoast",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "PythonScriptPlugin",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "ChaosVehiclesPlugin",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "EnhancedInput",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "EditorScriptingUtilities",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "RigLogic",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "HairStrands",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "MetaHumanRuntime",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "LiveLink",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "LiveLinkControlRig",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "LiveLinkCurveDebugUI",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "ARUtilities",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "AppleARKit",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "AppleARKitFaceSupport",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "AlembicHairImporter",
+                        "Enabled":  true
+                    }
+                ]
+}

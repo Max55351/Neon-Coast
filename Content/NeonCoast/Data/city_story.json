@@ -1,0 +1,38 @@
+{
+ "missions": [
+  {
+   "id": "city_intro", "title": "Mesto neni jen zavodni draha", "reward": 1500, "requires": [],
+   "giver": {"x": -69.5, "y": 88.1, "z": 3.06},
+   "steps": [
+    {"type": "talk", "lines": [["Sara", "Marino ti ukazal, jak se vydelava rychle. Ja ti ukazu, co ve meste zustane, kdyz penize dojdou."], ["Ty", "Servis, obchody a nekdo, kdo se nepta na puvod auta?"], ["Sara", "Presne. Nejdriv normalne vejdi do obchodu. U oznaceneho vstupu stiskni E. Ne kazdy problem se resi spousti."]]},
+    {"type": "visit", "business": "NC2_Int_Clothes", "x": -186.665, "y": 124.5, "z": 3.28, "text": "Vstup pres E do Neon Threads. U pultu jsou sluzby; ke dverim se vratis opet pres E."},
+    {"type": "visit", "business": "NC2_Int_GunShop", "x": -159.5, "y": 61.665, "z": 3.19, "text": "Vstup do Neon Arms a dojdi k prodejnimu pultu."},
+    {"type": "buy_weapon", "vehicle": "Pistol", "x": -159.5, "y": 61.665, "z": 3.19, "text": "U pultu kup pistoli a munici. Pokud pistoli uz vlastnis, muzes pokracovat."},
+    {"type": "goto", "x": -63.81, "y": 72.29, "z": 3.09, "radius": 9, "text": "Najdi Neon Coast Customs. Do servisniho prostoru se prijizdi autem."},
+    {"type": "talk", "lines": [["Mechanik", "Opravy, lak, kola, vykon. Ale nejdriv auto zastav. Nechci ho hledat ve zdi."], ["Sara", "Ted znas mesto. Az prijde dalsi zakazka, pamatuj, ze za kazdym pultem nekdo stoji."]]}
+   ]
+  },
+  {
+   "id": "city_silence", "title": "Cena lehkych penez", "reward": 2200, "requires": ["city_intro", "m2"],
+   "giver": {"x": -69.5, "y": 88.1, "z": 3.06},
+   "steps": [
+    {"type": "talk", "lines": [["Vinnie", "Russo bere obchodnikum jejich uspory. V jedne pokladne je i nase obalka. Dones ji."], ["Ty", "Tohle uz neni odvoz auta."], ["Sara", "Ne. A jakmile vytahnes zbran, nekdo zavola policii. Cesta zpatky nebude stejna jako cesta tam."]]},
+    {"type": "rob", "business": "NC2_Int_Shop", "x": -138.25, "y": 98.275, "z": 3.18, "text": "U skutecne pokladny mir nabitou zbrani, stiskni E a vydrz 6 sekund. Spusteni zbrane nebo odchod prepadeni zrusi."},
+    {"type": "lose_wanted", "text": "Setres policii. Schovej se mimo dohled; nevracej se ke stejnemu obchodu."},
+    {"type": "goto", "x": -69.5, "y": 88.1, "z": 3.06, "radius": 7, "text": "Vrat se za Sarou, az po tobe policie prestane patrat."},
+    {"type": "talk", "lines": [["Sara", "Ten obchodnik nebyl Russo. Byl to clovek, kteremu Russo vyhrozoval."], ["Ty", "Tak proc mi to Vinnie nerekl?"], ["Sara", "Protoze tohle mesto drzi pohromade mlceni. Priste budeme chtit dukaz, ne dalsi pokladnu."]]}
+   ]
+  },
+  {
+   "id": "city_ledger", "title": "Ucet, ktery nezmizel", "reward": 5000, "requires": ["city_silence", "m8"],
+   "giver": {"x": -69.5, "y": 88.1, "z": 3.06},
+   "steps": [
+    {"type": "talk", "lines": [["Sara", "Valka rodin skoncila, ale penize porad tecou. V bance zustal opis prevodu."], ["Ty", "Zadne dalsi vypalne?"], ["Sara", "Tentokrat vyzvedni dokumenty. Penize v pokladne nech byt. Don musi pochopit, ze uz pro nej nepracujes naslepo."]]},
+    {"type": "visit", "business": "NC2_Int_Bank", "x": -95.05, "y": 124.5, "z": 3.18, "text": "Vstup do banky oznacenym vchodem. Bankovni sluzby jsou u pultu."},
+    {"type": "collect", "x": -95.05, "y": 124.5, "z": 3.3, "radius": 3, "text": "Vyzvedni oznaceny opis uctu uvnitr banky."},
+    {"type": "visit", "business": "NC2_Int_Apartment", "x": -177.38, "y": 97.075, "z": 3.25, "text": "Dones dokumenty do bytu. U vchodu E, uvnitr dojdi k mistu schuzky."},
+    {"type": "talk", "lines": [["Sara", "Tohle neni konec mesta. Jen konec jejich vymluv."], ["Ty", "A co Don?"], ["Sara", "At si objedna taxi. My uz nejsme jeho ridici."], ["Ty", "Servis, obchody, otevrene dvere. Poprve mi to tu pripada jako misto, kde se da zustat."]]}
+   ]
+  }
+ ]
+}

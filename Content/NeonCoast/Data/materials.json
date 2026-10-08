@@ -1,0 +1,3656 @@
+{
+ "M_NC2_Concrete": {
+  "base": [
+   0.42,
+   0.4,
+   0.37
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Concrete",
+  "pbr_size": 300
+ },
+ "M_NC2_ConcreteDark": {
+  "base": [
+   0.2,
+   0.2,
+   0.2
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Concrete",
+  "pbr_size": 300
+ },
+ "M_NC2_Stone": {
+  "base": [
+   0.62,
+   0.55,
+   0.44
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Stone",
+  "pbr_size": 220
+ },
+ "M_NC2_Stucco_White": {
+  "base": [
+   0.8,
+   0.78,
+   0.72
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Plaster",
+  "pbr_size": 250
+ },
+ "M_NC2_Stucco_Pink": {
+  "base": [
+   0.82,
+   0.45,
+   0.48
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Plaster",
+  "pbr_size": 250
+ },
+ "M_NC2_Stucco_Mint": {
+  "base": [
+   0.45,
+   0.72,
+   0.6
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Plaster",
+  "pbr_size": 250
+ },
+ "M_NC2_Stucco_Sand": {
+  "base": [
+   0.78,
+   0.62,
+   0.42
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Plaster",
+  "pbr_size": 250
+ },
+ "M_NC2_Glass_Blue": {
+  "base": [
+   0.03,
+   0.08,
+   0.12
+  ],
+  "roughness": 0.04,
+  "metallic": 0.6,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Facade",
+  "pbr_size": 400
+ },
+ "M_NC2_Glass_Teal": {
+  "base": [
+   0.02,
+   0.1,
+   0.1
+  ],
+  "roughness": 0.04,
+  "metallic": 0.6,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Facade",
+  "pbr_size": 400
+ },
+ "M_NC2_Glass_Bronze": {
+  "base": [
+   0.09,
+   0.06,
+   0.04
+  ],
+  "roughness": 0.05,
+  "metallic": 0.6,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Facade",
+  "pbr_size": 400
+ },
+ "M_NC2_Glass_Clear": {
+  "base": [
+   0.1,
+   0.13,
+   0.15
+  ],
+  "roughness": 0.02,
+  "metallic": 0.2,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Metal_Alu": {
+  "base": [
+   0.7,
+   0.71,
+   0.73
+  ],
+  "roughness": 0.3,
+  "metallic": 1.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Metal",
+  "pbr_size": 120
+ },
+ "M_NC2_Metal_Dark": {
+  "base": [
+   0.06,
+   0.06,
+   0.07
+  ],
+  "roughness": 0.4,
+  "metallic": 1.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Paint_White": {
+  "base": [
+   0.85,
+   0.86,
+   0.86
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Plaster",
+  "pbr_size": 300
+ },
+ "M_NC2_Paint_Red": {
+  "base": [
+   0.55,
+   0.04,
+   0.03
+  ],
+  "roughness": 0.4,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Paint_Navy": {
+  "base": [
+   0.02,
+   0.04,
+   0.1
+  ],
+  "roughness": 0.4,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Paint_Black": {
+  "base": [
+   0.02,
+   0.02,
+   0.02
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Paint_Yellow": {
+  "base": [
+   0.8,
+   0.55,
+   0.02
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Paint_Orange": {
+  "base": [
+   0.8,
+   0.22,
+   0.02
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Rust": {
+  "base": [
+   0.25,
+   0.1,
+   0.05
+  ],
+  "roughness": 0.8,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Roof_Tar": {
+  "base": [
+   0.1,
+   0.1,
+   0.1
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Roof",
+  "pbr_size": 300
+ },
+ "M_NC2_Roof_Terracotta": {
+  "base": [
+   0.45,
+   0.14,
+   0.07
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Roof",
+  "pbr_size": 300
+ },
+ "M_NC2_Roof_Metal": {
+  "base": [
+   0.35,
+   0.37,
+   0.38
+  ],
+  "roughness": 0.45,
+  "metallic": 0.8,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Metal",
+  "pbr_size": 150
+ },
+ "M_NC2_Wood": {
+  "base": [
+   0.3,
+   0.18,
+   0.09
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Wood",
+  "pbr_size": 200
+ },
+ "M_NC2_Wood_Deck": {
+  "base": [
+   0.4,
+   0.27,
+   0.15
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Wood",
+  "pbr_size": 200
+ },
+ "M_NC2_Bark_Palm": {
+  "base": [
+   0.28,
+   0.22,
+   0.15
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Bark": {
+  "base": [
+   0.12,
+   0.09,
+   0.06
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leaf_Palm": {
+  "base": [
+   0.1,
+   0.22,
+   0.05
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leaf_Palm_Dry": {
+  "base": [
+   0.3,
+   0.28,
+   0.1
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leaf_Broad": {
+  "base": [
+   0.05,
+   0.14,
+   0.03
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leaf_Broad_Light": {
+  "base": [
+   0.12,
+   0.22,
+   0.04
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leaf_Pine": {
+  "base": [
+   0.03,
+   0.08,
+   0.03
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leaf_Bush": {
+  "base": [
+   0.08,
+   0.17,
+   0.04
+  ],
+  "roughness": 0.65,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Water_Pool": {
+  "base": [
+   0.05,
+   0.45,
+   0.55
+  ],
+  "roughness": 0.03,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Rubber": {
+  "base": [
+   0.02,
+   0.02,
+   0.02
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Asphalt": {
+  "base": [
+   0.05,
+   0.05,
+   0.055
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Marking_White": {
+  "base": [
+   0.8,
+   0.8,
+   0.78
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Marking_Yellow": {
+  "base": [
+   0.75,
+   0.52,
+   0.05
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Grass_Turf": {
+  "base": [
+   0.1,
+   0.22,
+   0.05
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Canvas_White": {
+  "base": [
+   0.85,
+   0.83,
+   0.78
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Canvas_Stripe": {
+  "base": [
+   0.8,
+   0.25,
+   0.3
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Neon_Pink": {
+  "base": [
+   0.9,
+   0.1,
+   0.5
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.1,
+   0.55
+  ],
+  "emissive_strength": 12.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Neon_Cyan": {
+  "base": [
+   0.1,
+   0.8,
+   0.9
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0.1,
+   0.9,
+   1.0
+  ],
+  "emissive_strength": 12.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Light_Warm": {
+  "base": [
+   1.0,
+   0.9,
+   0.7
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.85,
+   0.6
+  ],
+  "emissive_strength": 6.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Hull_Red": {
+  "base": [
+   0.35,
+   0.03,
+   0.02
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Hull_Blue": {
+  "base": [
+   0.02,
+   0.06,
+   0.15
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Deck_Green": {
+  "base": [
+   0.1,
+   0.18,
+   0.1
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Solar": {
+  "base": [
+   0.02,
+   0.03,
+   0.06
+  ],
+  "roughness": 0.15,
+  "metallic": 0.4,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_VertexColor": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": true,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_F1": {
+  "base": [
+   0.8,
+   0.6,
+   0.5
+  ],
+  "roughness": 0.42,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_F2": {
+  "base": [
+   0.66,
+   0.46,
+   0.34
+  ],
+  "roughness": 0.42,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_F3": {
+  "base": [
+   0.46,
+   0.29,
+   0.19
+  ],
+  "roughness": 0.4,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_F4": {
+  "base": [
+   0.26,
+   0.15,
+   0.09
+  ],
+  "roughness": 0.38,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_F5": {
+  "base": [
+   0.72,
+   0.55,
+   0.38
+  ],
+  "roughness": 0.42,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Lips_F1": {
+  "base": [
+   0.62,
+   0.3,
+   0.3
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Lips_F3": {
+  "base": [
+   0.35,
+   0.16,
+   0.14
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Lips_Red": {
+  "base": [
+   0.5,
+   0.04,
+   0.08
+  ],
+  "roughness": 0.25,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Eyelash": {
+  "base": [
+   0.01,
+   0.008,
+   0.006
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Eye_Iris": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.05,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_HairS_Black": {
+  "base": [
+   0.012,
+   0.009,
+   0.007
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_HairS_DarkBrown": {
+  "base": [
+   0.05,
+   0.025,
+   0.012
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_HairS_Brown": {
+  "base": [
+   0.14,
+   0.07,
+   0.03
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_HairS_Blond": {
+  "base": [
+   0.62,
+   0.45,
+   0.22
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_HairS_Grey": {
+  "base": [
+   0.45,
+   0.44,
+   0.42
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Navy": {
+  "base": [
+   0.025,
+   0.035,
+   0.09
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Grey": {
+  "base": [
+   0.18,
+   0.18,
+   0.19
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_White": {
+  "base": [
+   0.78,
+   0.78,
+   0.76
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Black": {
+  "base": [
+   0.02,
+   0.02,
+   0.022
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Denim": {
+  "base": [
+   0.06,
+   0.1,
+   0.22
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Khaki": {
+  "base": [
+   0.42,
+   0.35,
+   0.22
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Beige": {
+  "base": [
+   0.55,
+   0.47,
+   0.36
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Brown": {
+  "base": [
+   0.18,
+   0.11,
+   0.06
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Hawaii": {
+  "base": [
+   0.05,
+   0.4,
+   0.35
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Pink": {
+  "base": [
+   0.8,
+   0.22,
+   0.42
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Teal": {
+  "base": [
+   0.03,
+   0.42,
+   0.45
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Yellow": {
+  "base": [
+   0.85,
+   0.62,
+   0.08
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Cyan": {
+  "base": [
+   0.05,
+   0.55,
+   0.7
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Red": {
+  "base": [
+   0.55,
+   0.03,
+   0.04
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Coral": {
+  "base": [
+   0.85,
+   0.35,
+   0.28
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Olive": {
+  "base": [
+   0.2,
+   0.22,
+   0.1
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_HiVis": {
+  "base": [
+   0.95,
+   0.55,
+   0.02
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0.8,
+   0.45,
+   0.0
+  ],
+  "emissive_strength": 0.25,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Reflective": {
+  "base": [
+   0.8,
+   0.8,
+   0.8
+  ],
+  "roughness": 0.25,
+  "metallic": 0.6,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Tactical": {
+  "base": [
+   0.035,
+   0.037,
+   0.04
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Kevlar": {
+  "base": [
+   0.06,
+   0.065,
+   0.06
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_Camo": {
+  "base": [
+   0.16,
+   0.17,
+   0.09
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fab_CamoVest": {
+  "base": [
+   0.24,
+   0.22,
+   0.13
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leather_Black": {
+  "base": [
+   0.015,
+   0.012,
+   0.01
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Leather_Brown": {
+  "base": [
+   0.15,
+   0.07,
+   0.03
+  ],
+  "roughness": 0.4,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Sneaker_White": {
+  "base": [
+   0.82,
+   0.82,
+   0.8
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Rubber_Sole": {
+  "base": [
+   0.04,
+   0.04,
+   0.04
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Plastic_Yellow": {
+  "base": [
+   0.85,
+   0.62,
+   0.02
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Phone": {
+  "base": [
+   0.01,
+   0.01,
+   0.012
+  ],
+  "roughness": 0.1,
+  "metallic": 0.5,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_Light": {
+  "base": [
+   0.72,
+   0.52,
+   0.42
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_Tan": {
+  "base": [
+   0.55,
+   0.36,
+   0.24
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_Brown": {
+  "base": [
+   0.33,
+   0.2,
+   0.12
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Skin_Dark": {
+  "base": [
+   0.16,
+   0.09,
+   0.06
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Hair_Black": {
+  "base": [
+   0.02,
+   0.015,
+   0.01
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Hair_Brown": {
+  "base": [
+   0.1,
+   0.05,
+   0.02
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Hair_Blond": {
+  "base": [
+   0.55,
+   0.4,
+   0.18
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_White": {
+  "base": [
+   0.8,
+   0.8,
+   0.78
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Black": {
+  "base": [
+   0.03,
+   0.03,
+   0.035
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Navy": {
+  "base": [
+   0.03,
+   0.05,
+   0.14
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Denim": {
+  "base": [
+   0.08,
+   0.13,
+   0.25
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Khaki": {
+  "base": [
+   0.45,
+   0.38,
+   0.24
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Pink": {
+  "base": [
+   0.85,
+   0.25,
+   0.45
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Teal": {
+  "base": [
+   0.05,
+   0.5,
+   0.5
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Yellow": {
+  "base": [
+   0.85,
+   0.65,
+   0.1
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Red": {
+  "base": [
+   0.6,
+   0.05,
+   0.05
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Grey": {
+  "base": [
+   0.3,
+   0.3,
+   0.31
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_HiVis": {
+  "base": [
+   0.95,
+   0.45,
+   0.02
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0.9,
+   0.4,
+   0.0
+  ],
+  "emissive_strength": 0.3,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Cloth_Hawaii": {
+  "base": [
+   0.1,
+   0.45,
+   0.35
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Towel_Stripe": {
+  "base": [
+   0.1,
+   0.55,
+   0.75
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Pink": {
+  "base": [
+   0.8,
+   0.18,
+   0.4
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Cyan": {
+  "base": [
+   0.05,
+   0.55,
+   0.65
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_White": {
+  "base": [
+   0.82,
+   0.82,
+   0.8
+  ],
+  "roughness": 0.25,
+  "metallic": 0.2,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Black": {
+  "base": [
+   0.02,
+   0.02,
+   0.025
+  ],
+  "roughness": 0.2,
+  "metallic": 0.4,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Silver": {
+  "base": [
+   0.55,
+   0.56,
+   0.58
+  ],
+  "roughness": 0.25,
+  "metallic": 0.8,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Red": {
+  "base": [
+   0.5,
+   0.02,
+   0.02
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Yellow": {
+  "base": [
+   0.85,
+   0.6,
+   0.03
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Orange": {
+  "base": [
+   0.85,
+   0.3,
+   0.02
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Green": {
+  "base": [
+   0.05,
+   0.25,
+   0.12
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Blue": {
+  "base": [
+   0.03,
+   0.1,
+   0.35
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Glass_Car": {
+  "base": [
+   0.01,
+   0.015,
+   0.02
+  ],
+  "roughness": 0.05,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Light_Head": {
+  "base": [
+   1.0,
+   1.0,
+   0.95
+  ],
+  "roughness": 0.2,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.95,
+   0.85
+  ],
+  "emissive_strength": 3.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Light_Tail": {
+  "base": [
+   0.6,
+   0.02,
+   0.02
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.02,
+   0.02
+  ],
+  "emissive_strength": 2.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Light_PoliceBlue": {
+  "base": [
+   0.05,
+   0.1,
+   0.9
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0.1,
+   0.2,
+   1.0
+  ],
+  "emissive_strength": 8.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Chrome": {
+  "base": [
+   0.8,
+   0.8,
+   0.82
+  ],
+  "roughness": 0.1,
+  "metallic": 1.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Signal_Red": {
+  "base": [
+   0.9,
+   0.05,
+   0.03
+  ],
+  "roughness": 0.2,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.05,
+   0.02
+  ],
+  "emissive_strength": 18.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Signal_Amber": {
+  "base": [
+   0.25,
+   0.14,
+   0.02
+  ],
+  "roughness": 0.2,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Signal_Green": {
+  "base": [
+   0.02,
+   0.2,
+   0.08
+  ],
+  "roughness": 0.2,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Signal_GreenOn": {
+  "base": [
+   0.1,
+   0.9,
+   0.4
+  ],
+  "roughness": 0.2,
+  "metallic": 0.0,
+  "emissive": [
+   0.1,
+   1.0,
+   0.45
+  ],
+  "emissive_strength": 18.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Signal_RedOff": {
+  "base": [
+   0.25,
+   0.03,
+   0.02
+  ],
+  "roughness": 0.2,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Signal_Housing": {
+  "base": [
+   0.02,
+   0.02,
+   0.02
+  ],
+  "roughness": 0.5,
+  "metallic": 0.2,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Street_Pole": {
+  "base": [
+   0.18,
+   0.19,
+   0.2
+  ],
+  "roughness": 0.45,
+  "metallic": 0.8,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Hydrant_Red": {
+  "base": [
+   0.6,
+   0.04,
+   0.03
+  ],
+  "roughness": 0.4,
+  "metallic": 0.2,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Bin_Green": {
+  "base": [
+   0.03,
+   0.18,
+   0.1
+  ],
+  "roughness": 0.5,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Neon_Letter_Pink": {
+  "base": [
+   1.0,
+   0.2,
+   0.6
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.12,
+   0.55
+  ],
+  "emissive_strength": 30.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Neon_Letter_Cyan": {
+  "base": [
+   0.2,
+   0.9,
+   1.0
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0.1,
+   0.85,
+   1.0
+  ],
+  "emissive_strength": 30.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Neon_Letter_Gold": {
+  "base": [
+   1.0,
+   0.75,
+   0.2
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.7,
+   0.2
+  ],
+  "emissive_strength": 30.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Ad_0": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_0.png"
+ },
+ "M_NC2_Ad_1": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_1.png"
+ },
+ "M_NC2_Ad_2": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_2.png"
+ },
+ "M_NC2_Ad_3": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_3.png"
+ },
+ "M_NC2_Ad_4": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_4.png"
+ },
+ "M_NC2_Ad_5": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_5.png"
+ },
+ "M_NC2_Ad_6": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_6.png"
+ },
+ "M_NC2_Ad_7": {
+  "base": [
+   1,
+   1,
+   1
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 1.2,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Ad_7.png"
+ },
+ "M_NC2_Car_Interior_Dark": {
+  "base": [
+   0.025,
+   0.022,
+   0.02
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Interior_Beige": {
+  "base": [
+   0.45,
+   0.38,
+   0.29
+  ],
+  "roughness": 0.6,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Headliner": {
+  "base": [
+   0.35,
+   0.34,
+   0.32
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Dash_Glow": {
+  "base": [
+   0.05,
+   0.25,
+   0.35
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0.1,
+   0.6,
+   1.0
+  ],
+  "emissive_strength": 1.5,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Caliper": {
+  "base": [
+   0.6,
+   0.03,
+   0.02
+  ],
+  "roughness": 0.35,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Car_Disc": {
+  "base": [
+   0.35,
+   0.34,
+   0.33
+  ],
+  "roughness": 0.4,
+  "metallic": 1.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Glass_CarClear": {
+  "base": [
+   0.02,
+   0.03,
+   0.035
+  ],
+  "roughness": 0.02,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": true,
+  "texture": null
+ },
+ "M_NC2_Tune_Carbon": {
+  "base": [
+   0.02,
+   0.02,
+   0.022
+  ],
+  "roughness": 0.25,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Tune_Paint": {
+  "base": [
+   0.5,
+   0.5,
+   0.5
+  ],
+  "roughness": 0.3,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Tune_Neon": {
+  "base": [
+   0.9,
+   0.1,
+   0.8
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.1,
+   0.9
+  ],
+  "emissive_strength": 25.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Tune_RimBlack": {
+  "base": [
+   0.02,
+   0.02,
+   0.02
+  ],
+  "roughness": 0.25,
+  "metallic": 0.9,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Tune_RimGold": {
+  "base": [
+   0.7,
+   0.5,
+   0.15
+  ],
+  "roughness": 0.2,
+  "metallic": 1.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Garage_Floor": {
+  "base": [
+   0.25,
+   0.25,
+   0.26
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Garage_Wall": {
+  "base": [
+   0.12,
+   0.12,
+   0.14
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Kerb": {
+  "base": [
+   0.55,
+   0.54,
+   0.5
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Quay_Wall": {
+  "base": [
+   0.36,
+   0.35,
+   0.32
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Pavement": {
+  "base": [
+   0.6,
+   0.58,
+   0.54
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Pavement.png"
+ },
+ "M_NC2_Asphalt_Street": {
+  "base": [
+   0.06,
+   0.06,
+   0.065
+  ],
+  "roughness": 0.88,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": "T_NC_Asphalt.png"
+ },
+ "M_NC2_Fur_Brown": {
+  "base": [
+   0.3,
+   0.17,
+   0.08
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fur_Tan": {
+  "base": [
+   0.66,
+   0.5,
+   0.3
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fur_Black": {
+  "base": [
+   0.03,
+   0.03,
+   0.03
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fur_Grey": {
+  "base": [
+   0.32,
+   0.32,
+   0.33
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fur_Ginger": {
+  "base": [
+   0.72,
+   0.36,
+   0.1
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Fur_White": {
+  "base": [
+   0.85,
+   0.84,
+   0.8
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Nose_Black": {
+  "base": [
+   0.02,
+   0.02,
+   0.02
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Eye_Amber": {
+  "base": [
+   0.8,
+   0.55,
+   0.05
+  ],
+  "roughness": 0.1,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Croc_Skin": {
+  "base": [
+   0.1,
+   0.13,
+   0.06
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Croc_Belly": {
+  "base": [
+   0.45,
+   0.42,
+   0.26
+  ],
+  "roughness": 0.8,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Shark_Grey": {
+  "base": [
+   0.32,
+   0.37,
+   0.42
+  ],
+  "roughness": 0.45,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Shark_Belly": {
+  "base": [
+   0.82,
+   0.82,
+   0.8
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Gull_White": {
+  "base": [
+   0.92,
+   0.92,
+   0.9
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Gull_Grey": {
+  "base": [
+   0.5,
+   0.53,
+   0.56
+  ],
+  "roughness": 0.7,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Beak_Yellow": {
+  "base": [
+   0.85,
+   0.62,
+   0.08
+  ],
+  "roughness": 0.4,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Wing_Blue": {
+  "base": [
+   0.05,
+   0.35,
+   0.95
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0.05,
+   0.3,
+   0.9
+  ],
+  "emissive_strength": 0.6,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Wing_Orange": {
+  "base": [
+   0.95,
+   0.45,
+   0.05
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0.9,
+   0.4,
+   0.05
+  ],
+  "emissive_strength": 0.6,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Firefly_Glow": {
+  "base": [
+   0.8,
+   1.0,
+   0.3
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0.7,
+   1.0,
+   0.2
+  ],
+  "emissive_strength": 40.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Mil_Olive": {
+  "base": [
+   0.19,
+   0.21,
+   0.12
+  ],
+  "roughness": 0.75,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Mil_Sand": {
+  "base": [
+   0.48,
+   0.42,
+   0.3
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Mil_Concrete": {
+  "base": [
+   0.36,
+   0.36,
+   0.33
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null,
+  "pbr": "Concrete",
+  "pbr_size": 300
+ },
+ "M_NC2_Mil_Stripe": {
+  "base": [
+   0.8,
+   0.1,
+   0.05
+  ],
+  "roughness": 0.5,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Jetski_Pink": {
+  "base": [
+   0.95,
+   0.12,
+   0.45
+  ],
+  "roughness": 0.25,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Jetski_Cyan": {
+  "base": [
+   0.05,
+   0.65,
+   0.85
+  ],
+  "roughness": 0.25,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Jetski_Black": {
+  "base": [
+   0.03,
+   0.03,
+   0.035
+  ],
+  "roughness": 0.4,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Seat_Vinyl": {
+  "base": [
+   0.05,
+   0.05,
+   0.06
+  ],
+  "roughness": 0.55,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Sail_Cloth": {
+  "base": [
+   0.93,
+   0.92,
+   0.88
+  ],
+  "roughness": 0.85,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Rope": {
+  "base": [
+   0.75,
+   0.68,
+   0.52
+  ],
+  "roughness": 0.9,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Plane_White": {
+  "base": [
+   0.88,
+   0.88,
+   0.86
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Plane_Stripe": {
+  "base": [
+   0.9,
+   0.12,
+   0.45
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Jet_Grey": {
+  "base": [
+   0.3,
+   0.32,
+   0.35
+  ],
+  "roughness": 0.45,
+  "metallic": 0.3,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Jet_Glow": {
+  "base": [
+   1.0,
+   0.45,
+   0.1
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.4,
+   0.08
+  ],
+  "emissive_strength": 20.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Heli_Red": {
+  "base": [
+   0.6,
+   0.05,
+   0.05
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Police_Navy": {
+  "base": [
+   0.02,
+   0.04,
+   0.12
+  ],
+  "roughness": 0.35,
+  "metallic": 0.0,
+  "emissive": [
+   0,
+   0,
+   0
+  ],
+  "emissive_strength": 0.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Light_Red": {
+  "base": [
+   1.0,
+   0.05,
+   0.05
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   1.0,
+   0.05,
+   0.05
+  ],
+  "emissive_strength": 15.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ },
+ "M_NC2_Light_Blue": {
+  "base": [
+   0.05,
+   0.2,
+   1.0
+  ],
+  "roughness": 0.3,
+  "metallic": 0.0,
+  "emissive": [
+   0.05,
+   0.25,
+   1.0
+  ],
+  "emissive_strength": 15.0,
+  "vertex_color": false,
+  "glass": false,
+  "texture": null
+ }
+}

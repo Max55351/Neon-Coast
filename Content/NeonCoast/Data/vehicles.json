@@ -1,0 +1,2004 @@
+{
+ "NC2_Car_Sedan_A": {
+  "kind": "sedan",
+  "paint_slot": "M_NC2_Car_White",
+  "seats_cm": [
+   [
+    13.9,
+    -38.2,
+    61.0
+   ],
+   [
+    13.9,
+    38.2,
+    61.0
+   ],
+   [
+    -78.1,
+    -38.2,
+    59.0
+   ],
+   [
+    -78.1,
+    38.2,
+    59.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    62.8,
+    -91.0,
+    78.0
+   ],
+   "door_fr": [
+    62.8,
+    91.0,
+    78.0
+   ],
+   "hood": [
+    112.5,
+    0.0,
+    102.3
+   ],
+   "door_rl": [
+    -44.8,
+    -91.0,
+    78.0
+   ],
+   "door_rr": [
+    -44.8,
+    91.0,
+    78.0
+   ],
+   "trunk": [
+    -112.5,
+    0.0,
+    101.7
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sedan_A",
+  "drivetrain": "FWD",
+  "mass_kg": 1450,
+  "max_torque_nm": 320,
+  "max_rpm": 6200,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 45000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 200,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.78,
+    1.42,
+    0.33
+   ],
+   "fr": [
+    0.78,
+    1.42,
+    0.33
+   ],
+   "rl": [
+    -0.78,
+    -1.36,
+    0.33
+   ],
+   "rr": [
+    0.78,
+    -1.36,
+    0.33
+   ]
+  },
+  "wheel_radius_m": 0.33,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sedan_B": {
+  "kind": "sedan",
+  "paint_slot": "M_NC2_Car_Silver",
+  "seats_cm": [
+   [
+    13.9,
+    -38.2,
+    61.0
+   ],
+   [
+    13.9,
+    38.2,
+    61.0
+   ],
+   [
+    -78.1,
+    -38.2,
+    59.0
+   ],
+   [
+    -78.1,
+    38.2,
+    59.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    62.8,
+    -91.0,
+    78.0
+   ],
+   "door_fr": [
+    62.8,
+    91.0,
+    78.0
+   ],
+   "hood": [
+    112.5,
+    0.0,
+    102.3
+   ],
+   "door_rl": [
+    -44.8,
+    -91.0,
+    78.0
+   ],
+   "door_rr": [
+    -44.8,
+    91.0,
+    78.0
+   ],
+   "trunk": [
+    -112.5,
+    0.0,
+    101.7
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sedan_B",
+  "drivetrain": "FWD",
+  "mass_kg": 1450,
+  "max_torque_nm": 320,
+  "max_rpm": 6200,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 45000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 200,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.78,
+    1.42,
+    0.33
+   ],
+   "fr": [
+    0.78,
+    1.42,
+    0.33
+   ],
+   "rl": [
+    -0.78,
+    -1.36,
+    0.33
+   ],
+   "rr": [
+    0.78,
+    -1.36,
+    0.33
+   ]
+  },
+  "wheel_radius_m": 0.33,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sedan_C": {
+  "kind": "sedan",
+  "paint_slot": "M_NC2_Car_Black",
+  "seats_cm": [
+   [
+    13.9,
+    -38.2,
+    61.0
+   ],
+   [
+    13.9,
+    38.2,
+    61.0
+   ],
+   [
+    -78.1,
+    -38.2,
+    59.0
+   ],
+   [
+    -78.1,
+    38.2,
+    59.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    62.8,
+    -91.0,
+    78.0
+   ],
+   "door_fr": [
+    62.8,
+    91.0,
+    78.0
+   ],
+   "hood": [
+    112.5,
+    0.0,
+    102.3
+   ],
+   "door_rl": [
+    -44.8,
+    -91.0,
+    78.0
+   ],
+   "door_rr": [
+    -44.8,
+    91.0,
+    78.0
+   ],
+   "trunk": [
+    -112.5,
+    0.0,
+    101.7
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sedan_C",
+  "drivetrain": "FWD",
+  "mass_kg": 1450,
+  "max_torque_nm": 320,
+  "max_rpm": 6200,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 45000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 200,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.78,
+    1.42,
+    0.33
+   ],
+   "fr": [
+    0.78,
+    1.42,
+    0.33
+   ],
+   "rl": [
+    -0.78,
+    -1.36,
+    0.33
+   ],
+   "rr": [
+    0.78,
+    -1.36,
+    0.33
+   ]
+  },
+  "wheel_radius_m": 0.33,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sedan_D": {
+  "kind": "sedan",
+  "paint_slot": "M_NC2_Car_Blue",
+  "seats_cm": [
+   [
+    13.9,
+    -38.2,
+    61.0
+   ],
+   [
+    13.9,
+    38.2,
+    61.0
+   ],
+   [
+    -78.1,
+    -38.2,
+    59.0
+   ],
+   [
+    -78.1,
+    38.2,
+    59.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    62.8,
+    -91.0,
+    78.0
+   ],
+   "door_fr": [
+    62.8,
+    91.0,
+    78.0
+   ],
+   "hood": [
+    112.5,
+    0.0,
+    102.3
+   ],
+   "door_rl": [
+    -44.8,
+    -91.0,
+    78.0
+   ],
+   "door_rr": [
+    -44.8,
+    91.0,
+    78.0
+   ],
+   "trunk": [
+    -112.5,
+    0.0,
+    101.7
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sedan_D",
+  "drivetrain": "FWD",
+  "mass_kg": 1450,
+  "max_torque_nm": 320,
+  "max_rpm": 6200,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 45000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 200,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.78,
+    1.42,
+    0.33
+   ],
+   "fr": [
+    0.78,
+    1.42,
+    0.33
+   ],
+   "rl": [
+    -0.78,
+    -1.36,
+    0.33
+   ],
+   "rr": [
+    0.78,
+    -1.36,
+    0.33
+   ]
+  },
+  "wheel_radius_m": 0.33,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sedan_E": {
+  "kind": "sedan",
+  "paint_slot": "M_NC2_Car_Red",
+  "seats_cm": [
+   [
+    13.9,
+    -38.2,
+    61.0
+   ],
+   [
+    13.9,
+    38.2,
+    61.0
+   ],
+   [
+    -78.1,
+    -38.2,
+    59.0
+   ],
+   [
+    -78.1,
+    38.2,
+    59.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    62.8,
+    -91.0,
+    78.0
+   ],
+   "door_fr": [
+    62.8,
+    91.0,
+    78.0
+   ],
+   "hood": [
+    112.5,
+    0.0,
+    102.3
+   ],
+   "door_rl": [
+    -44.8,
+    -91.0,
+    78.0
+   ],
+   "door_rr": [
+    -44.8,
+    91.0,
+    78.0
+   ],
+   "trunk": [
+    -112.5,
+    0.0,
+    101.7
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sedan_E",
+  "drivetrain": "FWD",
+  "mass_kg": 1450,
+  "max_torque_nm": 320,
+  "max_rpm": 6200,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 45000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 200,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.78,
+    1.42,
+    0.33
+   ],
+   "fr": [
+    0.78,
+    1.42,
+    0.33
+   ],
+   "rl": [
+    -0.78,
+    -1.36,
+    0.33
+   ],
+   "rr": [
+    0.78,
+    -1.36,
+    0.33
+   ]
+  },
+  "wheel_radius_m": 0.33,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sport_A": {
+  "kind": "sport",
+  "paint_slot": "M_NC2_Car_Pink",
+  "seats_cm": [
+   [
+    -4.0,
+    -41.2,
+    56.0
+   ],
+   [
+    -4.0,
+    41.2,
+    56.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    37.8,
+    -98.0,
+    64.0
+   ],
+   "door_fr": [
+    37.8,
+    98.0,
+    64.0
+   ],
+   "hood": [
+    94.3,
+    0.0,
+    89.3
+   ],
+   "trunk": [
+    -116.6,
+    0.0,
+    99.2
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sport_A",
+  "drivetrain": "RWD",
+  "mass_kg": 1400,
+  "max_torque_nm": 520,
+  "max_rpm": 7800,
+  "suspension_travel_m": 0.08,
+  "spring_rate": 70000,
+  "max_steer_deg": 34,
+  "top_speed_kmh": 290,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.85,
+    1.38,
+    0.34
+   ],
+   "fr": [
+    0.85,
+    1.38,
+    0.34
+   ],
+   "rl": [
+    -0.85,
+    -1.3,
+    0.34
+   ],
+   "rr": [
+    0.85,
+    -1.3,
+    0.34
+   ]
+  },
+  "wheel_radius_m": 0.34,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sport_B": {
+  "kind": "sport",
+  "paint_slot": "M_NC2_Car_Cyan",
+  "seats_cm": [
+   [
+    -4.0,
+    -41.2,
+    56.0
+   ],
+   [
+    -4.0,
+    41.2,
+    56.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    37.8,
+    -98.0,
+    64.0
+   ],
+   "door_fr": [
+    37.8,
+    98.0,
+    64.0
+   ],
+   "hood": [
+    94.3,
+    0.0,
+    89.3
+   ],
+   "trunk": [
+    -116.6,
+    0.0,
+    99.2
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sport_B",
+  "drivetrain": "RWD",
+  "mass_kg": 1400,
+  "max_torque_nm": 520,
+  "max_rpm": 7800,
+  "suspension_travel_m": 0.08,
+  "spring_rate": 70000,
+  "max_steer_deg": 34,
+  "top_speed_kmh": 290,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.85,
+    1.38,
+    0.34
+   ],
+   "fr": [
+    0.85,
+    1.38,
+    0.34
+   ],
+   "rl": [
+    -0.85,
+    -1.3,
+    0.34
+   ],
+   "rr": [
+    0.85,
+    -1.3,
+    0.34
+   ]
+  },
+  "wheel_radius_m": 0.34,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sport_C": {
+  "kind": "sport",
+  "paint_slot": "M_NC2_Car_Yellow",
+  "seats_cm": [
+   [
+    -4.0,
+    -41.2,
+    56.0
+   ],
+   [
+    -4.0,
+    41.2,
+    56.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    37.8,
+    -98.0,
+    64.0
+   ],
+   "door_fr": [
+    37.8,
+    98.0,
+    64.0
+   ],
+   "hood": [
+    94.3,
+    0.0,
+    89.3
+   ],
+   "trunk": [
+    -116.6,
+    0.0,
+    99.2
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sport_C",
+  "drivetrain": "RWD",
+  "mass_kg": 1400,
+  "max_torque_nm": 520,
+  "max_rpm": 7800,
+  "suspension_travel_m": 0.08,
+  "spring_rate": 70000,
+  "max_steer_deg": 34,
+  "top_speed_kmh": 290,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.85,
+    1.38,
+    0.34
+   ],
+   "fr": [
+    0.85,
+    1.38,
+    0.34
+   ],
+   "rl": [
+    -0.85,
+    -1.3,
+    0.34
+   ],
+   "rr": [
+    0.85,
+    -1.3,
+    0.34
+   ]
+  },
+  "wheel_radius_m": 0.34,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Sport_D": {
+  "kind": "sport",
+  "paint_slot": "M_NC2_Car_Orange",
+  "seats_cm": [
+   [
+    -4.0,
+    -41.2,
+    56.0
+   ],
+   [
+    -4.0,
+    41.2,
+    56.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    37.8,
+    -98.0,
+    64.0
+   ],
+   "door_fr": [
+    37.8,
+    98.0,
+    64.0
+   ],
+   "hood": [
+    94.3,
+    0.0,
+    89.3
+   ],
+   "trunk": [
+    -116.6,
+    0.0,
+    99.2
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Sport_D",
+  "drivetrain": "RWD",
+  "mass_kg": 1400,
+  "max_torque_nm": 520,
+  "max_rpm": 7800,
+  "suspension_travel_m": 0.08,
+  "spring_rate": 70000,
+  "max_steer_deg": 34,
+  "top_speed_kmh": 290,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.85,
+    1.38,
+    0.34
+   ],
+   "fr": [
+    0.85,
+    1.38,
+    0.34
+   ],
+   "rl": [
+    -0.85,
+    -1.3,
+    0.34
+   ],
+   "rr": [
+    0.85,
+    -1.3,
+    0.34
+   ]
+  },
+  "wheel_radius_m": 0.34,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_SUV_A": {
+  "kind": "suv",
+  "paint_slot": "M_NC2_Car_Black",
+  "seats_cm": [
+   [
+    33.1,
+    -41.6,
+    67.0
+   ],
+   [
+    33.1,
+    41.6,
+    67.0
+   ],
+   [
+    -58.9,
+    -41.6,
+    65.0
+   ],
+   [
+    -58.9,
+    41.6,
+    65.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    80.0,
+    -99.0,
+    95.0
+   ],
+   "door_fr": [
+    80.0,
+    99.0,
+    95.0
+   ],
+   "hood": [
+    131.9,
+    0.0,
+    121.2
+   ],
+   "door_rl": [
+    -27.8,
+    -99.0,
+    95.0
+   ],
+   "door_rr": [
+    -27.8,
+    99.0,
+    95.0
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_SUV_A",
+  "drivetrain": "AWD_4x4",
+  "mass_kg": 2150,
+  "max_torque_nm": 520,
+  "max_rpm": 5800,
+  "suspension_travel_m": 0.25,
+  "spring_rate": 52000,
+  "max_steer_deg": 36,
+  "top_speed_kmh": 205,
+  "offroad": true,
+  "four_wheel_drive": true,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.86,
+    1.5,
+    0.4
+   ],
+   "fr": [
+    0.86,
+    1.5,
+    0.4
+   ],
+   "rl": [
+    -0.86,
+    -1.45,
+    0.4
+   ],
+   "rr": [
+    0.86,
+    -1.45,
+    0.4
+   ]
+  },
+  "wheel_radius_m": 0.4,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_SUV_B": {
+  "kind": "suv",
+  "paint_slot": "M_NC2_Car_White",
+  "seats_cm": [
+   [
+    33.1,
+    -41.6,
+    67.0
+   ],
+   [
+    33.1,
+    41.6,
+    67.0
+   ],
+   [
+    -58.9,
+    -41.6,
+    65.0
+   ],
+   [
+    -58.9,
+    41.6,
+    65.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    80.0,
+    -99.0,
+    95.0
+   ],
+   "door_fr": [
+    80.0,
+    99.0,
+    95.0
+   ],
+   "hood": [
+    131.9,
+    0.0,
+    121.2
+   ],
+   "door_rl": [
+    -27.8,
+    -99.0,
+    95.0
+   ],
+   "door_rr": [
+    -27.8,
+    99.0,
+    95.0
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_SUV_B",
+  "drivetrain": "AWD_4x4",
+  "mass_kg": 2150,
+  "max_torque_nm": 520,
+  "max_rpm": 5800,
+  "suspension_travel_m": 0.25,
+  "spring_rate": 52000,
+  "max_steer_deg": 36,
+  "top_speed_kmh": 205,
+  "offroad": true,
+  "four_wheel_drive": true,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.86,
+    1.5,
+    0.4
+   ],
+   "fr": [
+    0.86,
+    1.5,
+    0.4
+   ],
+   "rl": [
+    -0.86,
+    -1.45,
+    0.4
+   ],
+   "rr": [
+    0.86,
+    -1.45,
+    0.4
+   ]
+  },
+  "wheel_radius_m": 0.4,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_SUV_C": {
+  "kind": "suv",
+  "paint_slot": "M_NC2_Car_Green",
+  "seats_cm": [
+   [
+    33.1,
+    -41.6,
+    67.0
+   ],
+   [
+    33.1,
+    41.6,
+    67.0
+   ],
+   [
+    -58.9,
+    -41.6,
+    65.0
+   ],
+   [
+    -58.9,
+    41.6,
+    65.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    80.0,
+    -99.0,
+    95.0
+   ],
+   "door_fr": [
+    80.0,
+    99.0,
+    95.0
+   ],
+   "hood": [
+    131.9,
+    0.0,
+    121.2
+   ],
+   "door_rl": [
+    -27.8,
+    -99.0,
+    95.0
+   ],
+   "door_rr": [
+    -27.8,
+    99.0,
+    95.0
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_SUV_C",
+  "drivetrain": "AWD_4x4",
+  "mass_kg": 2150,
+  "max_torque_nm": 520,
+  "max_rpm": 5800,
+  "suspension_travel_m": 0.25,
+  "spring_rate": 52000,
+  "max_steer_deg": 36,
+  "top_speed_kmh": 205,
+  "offroad": true,
+  "four_wheel_drive": true,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.86,
+    1.5,
+    0.4
+   ],
+   "fr": [
+    0.86,
+    1.5,
+    0.4
+   ],
+   "rl": [
+    -0.86,
+    -1.45,
+    0.4
+   ],
+   "rr": [
+    0.86,
+    -1.45,
+    0.4
+   ]
+  },
+  "wheel_radius_m": 0.4,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Hatch_A": {
+  "kind": "hatch",
+  "paint_slot": "M_NC2_Car_Cyan",
+  "seats_cm": [
+   [
+    4.2,
+    -37.0,
+    60.0
+   ],
+   [
+    4.2,
+    37.0,
+    60.0
+   ],
+   [
+    -87.8,
+    -37.0,
+    58.0
+   ],
+   [
+    -87.8,
+    37.0,
+    58.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    54.7,
+    -88.0,
+    78.0
+   ],
+   "door_fr": [
+    54.7,
+    88.0,
+    78.0
+   ],
+   "hood": [
+    102.1,
+    0.0,
+    103.2
+   ],
+   "door_rl": [
+    -52.2,
+    -88.0,
+    78.0
+   ],
+   "door_rr": [
+    -52.2,
+    88.0,
+    78.0
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Hatch_A",
+  "drivetrain": "FWD",
+  "mass_kg": 1150,
+  "max_torque_nm": 250,
+  "max_rpm": 6500,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 38000,
+  "max_steer_deg": 40,
+  "top_speed_kmh": 185,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.75,
+    1.3,
+    0.31
+   ],
+   "fr": [
+    0.75,
+    1.3,
+    0.31
+   ],
+   "rl": [
+    -0.75,
+    -1.22,
+    0.31
+   ],
+   "rr": [
+    0.75,
+    -1.22,
+    0.31
+   ]
+  },
+  "wheel_radius_m": 0.31,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Hatch_B": {
+  "kind": "hatch",
+  "paint_slot": "M_NC2_Car_Pink",
+  "seats_cm": [
+   [
+    4.2,
+    -37.0,
+    60.0
+   ],
+   [
+    4.2,
+    37.0,
+    60.0
+   ],
+   [
+    -87.8,
+    -37.0,
+    58.0
+   ],
+   [
+    -87.8,
+    37.0,
+    58.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    54.7,
+    -88.0,
+    78.0
+   ],
+   "door_fr": [
+    54.7,
+    88.0,
+    78.0
+   ],
+   "hood": [
+    102.1,
+    0.0,
+    103.2
+   ],
+   "door_rl": [
+    -52.2,
+    -88.0,
+    78.0
+   ],
+   "door_rr": [
+    -52.2,
+    88.0,
+    78.0
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Hatch_B",
+  "drivetrain": "FWD",
+  "mass_kg": 1150,
+  "max_torque_nm": 250,
+  "max_rpm": 6500,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 38000,
+  "max_steer_deg": 40,
+  "top_speed_kmh": 185,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.75,
+    1.3,
+    0.31
+   ],
+   "fr": [
+    0.75,
+    1.3,
+    0.31
+   ],
+   "rl": [
+    -0.75,
+    -1.22,
+    0.31
+   ],
+   "rr": [
+    0.75,
+    -1.22,
+    0.31
+   ]
+  },
+  "wheel_radius_m": 0.31,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Hatch_C": {
+  "kind": "hatch",
+  "paint_slot": "M_NC2_Car_Silver",
+  "seats_cm": [
+   [
+    4.2,
+    -37.0,
+    60.0
+   ],
+   [
+    4.2,
+    37.0,
+    60.0
+   ],
+   [
+    -87.8,
+    -37.0,
+    58.0
+   ],
+   [
+    -87.8,
+    37.0,
+    58.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    54.7,
+    -88.0,
+    78.0
+   ],
+   "door_fr": [
+    54.7,
+    88.0,
+    78.0
+   ],
+   "hood": [
+    102.1,
+    0.0,
+    103.2
+   ],
+   "door_rl": [
+    -52.2,
+    -88.0,
+    78.0
+   ],
+   "door_rr": [
+    -52.2,
+    88.0,
+    78.0
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Hatch_C",
+  "drivetrain": "FWD",
+  "mass_kg": 1150,
+  "max_torque_nm": 250,
+  "max_rpm": 6500,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 38000,
+  "max_steer_deg": 40,
+  "top_speed_kmh": 185,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.75,
+    1.3,
+    0.31
+   ],
+   "fr": [
+    0.75,
+    1.3,
+    0.31
+   ],
+   "rl": [
+    -0.75,
+    -1.22,
+    0.31
+   ],
+   "rr": [
+    0.75,
+    -1.22,
+    0.31
+   ]
+  },
+  "wheel_radius_m": 0.31,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Taxi": {
+  "kind": "sedan",
+  "paint_slot": "M_NC2_Car_Yellow",
+  "seats_cm": [
+   [
+    13.9,
+    -38.2,
+    61.0
+   ],
+   [
+    13.9,
+    38.2,
+    61.0
+   ],
+   [
+    -78.1,
+    -38.2,
+    59.0
+   ],
+   [
+    -78.1,
+    38.2,
+    59.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    62.8,
+    -91.0,
+    78.0
+   ],
+   "door_fr": [
+    62.8,
+    91.0,
+    78.0
+   ],
+   "hood": [
+    112.5,
+    0.0,
+    102.3
+   ],
+   "door_rl": [
+    -44.8,
+    -91.0,
+    78.0
+   ],
+   "door_rr": [
+    -44.8,
+    91.0,
+    78.0
+   ],
+   "trunk": [
+    -112.5,
+    0.0,
+    101.7
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Taxi",
+  "drivetrain": "FWD",
+  "mass_kg": 1450,
+  "max_torque_nm": 320,
+  "max_rpm": 6200,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 45000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 200,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.78,
+    1.42,
+    0.33
+   ],
+   "fr": [
+    0.78,
+    1.42,
+    0.33
+   ],
+   "rl": [
+    -0.78,
+    -1.36,
+    0.33
+   ],
+   "rr": [
+    0.78,
+    -1.36,
+    0.33
+   ]
+  },
+  "wheel_radius_m": 0.33,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Police": {
+  "kind": "sedan",
+  "paint_slot": "M_NC2_Car_Black",
+  "seats_cm": [
+   [
+    13.9,
+    -38.2,
+    61.0
+   ],
+   [
+    13.9,
+    38.2,
+    61.0
+   ],
+   [
+    -78.1,
+    -38.2,
+    59.0
+   ],
+   [
+    -78.1,
+    38.2,
+    59.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    62.8,
+    -91.0,
+    78.0
+   ],
+   "door_fr": [
+    62.8,
+    91.0,
+    78.0
+   ],
+   "hood": [
+    112.5,
+    0.0,
+    102.3
+   ],
+   "door_rl": [
+    -44.8,
+    -91.0,
+    78.0
+   ],
+   "door_rr": [
+    -44.8,
+    91.0,
+    78.0
+   ],
+   "trunk": [
+    -112.5,
+    0.0,
+    101.7
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "door_rl",
+   "door_rr",
+   "hood",
+   "trunk",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Police",
+  "drivetrain": "RWD",
+  "mass_kg": 1750,
+  "max_torque_nm": 480,
+  "max_rpm": 6800,
+  "suspension_travel_m": 0.12,
+  "spring_rate": 55000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 240,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.78,
+    1.42,
+    0.33
+   ],
+   "fr": [
+    0.78,
+    1.42,
+    0.33
+   ],
+   "rl": [
+    -0.78,
+    -1.36,
+    0.33
+   ],
+   "rr": [
+    0.78,
+    -1.36,
+    0.33
+   ]
+  },
+  "wheel_radius_m": 0.33,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Pickup_A": {
+  "kind": "pickup",
+  "paint_slot": "M_NC2_Car_Red",
+  "seats_cm": [
+   [
+    30.0,
+    -42.0,
+    73.0
+   ],
+   [
+    30.0,
+    42.0,
+    73.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    93.6,
+    -100.0,
+    92.0
+   ],
+   "door_fr": [
+    93.6,
+    100.0,
+    92.0
+   ],
+   "hood": [
+    129.5,
+    0.0,
+    119.5
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Pickup_A",
+  "drivetrain": "AWD_4x4_LowRange",
+  "mass_kg": 2350,
+  "max_torque_nm": 620,
+  "max_rpm": 5200,
+  "suspension_travel_m": 0.3,
+  "spring_rate": 58000,
+  "max_steer_deg": 35,
+  "top_speed_kmh": 180,
+  "offroad": true,
+  "four_wheel_drive": true,
+  "low_range": true,
+  "wheels": {
+   "fl": [
+    -0.84,
+    1.75,
+    0.42
+   ],
+   "fr": [
+    0.84,
+    1.75,
+    0.42
+   ],
+   "rl": [
+    -0.84,
+    -1.55,
+    0.42
+   ],
+   "rr": [
+    0.84,
+    -1.55,
+    0.42
+   ]
+  },
+  "wheel_radius_m": 0.42,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC2_Car_Pickup_B": {
+  "kind": "pickup",
+  "paint_slot": "M_NC2_Car_Silver",
+  "seats_cm": [
+   [
+    30.0,
+    -42.0,
+    73.0
+   ],
+   [
+    30.0,
+    42.0,
+    73.0
+   ]
+  ],
+  "hinges_cm": {
+   "door_fl": [
+    93.6,
+    -100.0,
+    92.0
+   ],
+   "door_fr": [
+    93.6,
+    100.0,
+    92.0
+   ],
+   "hood": [
+    129.5,
+    0.0,
+    119.5
+   ]
+  },
+  "parts": [
+   "door_fl",
+   "door_fr",
+   "hood",
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC2_Car_Pickup_B",
+  "drivetrain": "AWD_4x4_LowRange",
+  "mass_kg": 2350,
+  "max_torque_nm": 620,
+  "max_rpm": 5200,
+  "suspension_travel_m": 0.3,
+  "spring_rate": 58000,
+  "max_steer_deg": 35,
+  "top_speed_kmh": 180,
+  "offroad": true,
+  "four_wheel_drive": true,
+  "low_range": true,
+  "wheels": {
+   "fl": [
+    -0.84,
+    1.75,
+    0.42
+   ],
+   "fr": [
+    0.84,
+    1.75,
+    0.42
+   ],
+   "rl": [
+    -0.84,
+    -1.55,
+    0.42
+   ],
+   "rr": [
+    0.84,
+    -1.55,
+    0.42
+   ]
+  },
+  "wheel_radius_m": 0.42,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ },
+ "NC_Car_PastelSedan": {
+  "kind": "original",
+  "paint_slot": "M_NC2_",
+  "seats_cm": [],
+  "hinges_cm": {},
+  "parts": [
+   "wheel_fl",
+   "wheel_fr",
+   "wheel_rl",
+   "wheel_rr"
+  ],
+  "skeletal_mesh": "SK_NC_Car_PastelSedan",
+  "drivetrain": "RWD",
+  "mass_kg": 1500,
+  "max_torque_nm": 360,
+  "max_rpm": 6000,
+  "suspension_travel_m": 0.13,
+  "spring_rate": 42000,
+  "max_steer_deg": 38,
+  "top_speed_kmh": 195,
+  "offroad": false,
+  "four_wheel_drive": false,
+  "low_range": false,
+  "wheels": {
+   "fl": [
+    -0.7448737694091923,
+    1.1461852248758078,
+    0.4806385934352875
+   ],
+   "fr": [
+    0.7446116069886858,
+    1.1461852248758078,
+    0.4806385934352875
+   ],
+   "rl": [
+    -0.7425528651240759,
+    -1.1265613863477484,
+    0.4806385934352875
+   ],
+   "rr": [
+    0.7423072548618415,
+    -1.1265613863477484,
+    0.4806385934352875
+   ]
+  },
+  "wheel_radius_m": 0.4806385934352875,
+  "morph_targets": [
+   "Damage_Front",
+   "Damage_Rear",
+   "Damage_Left",
+   "Damage_Right",
+   "Damage_Roof"
+  ]
+ }
+}

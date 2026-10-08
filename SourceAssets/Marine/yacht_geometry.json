@@ -1,0 +1,14 @@
+{
+  "triangles": 19178,
+  "vertices": 10039,
+  "length_metres": 38,
+  "width_metres": 7.6,
+  "materials": [
+    "M_NC2_Paint_White",
+    "M_NC2_Wood_Deck",
+    "M_NC2_Glass_Blue",
+    "M_NC2_Chrome",
+    "M_NC2_Hull_Blue",
+    "M_NC2_Canvas_White"
+  ]
+}

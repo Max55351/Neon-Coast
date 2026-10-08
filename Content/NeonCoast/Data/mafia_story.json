@@ -1,0 +1,49 @@
+{
+ "missions": [
+  {
+   "id": "mafia_intro", "title": "Prolog: Dluh po otci", "reward": 1000, "requires": [],
+   "giver": {"x": -69.5, "y": 88.1, "z": 3.06},
+   "steps": [
+    {"type": "goto", "x": -69.5, "y": 88.1, "z": 3.06, "radius": 8, "text": "Dojdi k restauraci Marino. Don ceka. M otevre mapu; cil je oznaceny."},
+    {"type": "cutscene", "lines": [["Vinnie", "Tvuj otec ridil pro Marina. Jednou odjel s obalkou a uz se nevratil. Ten dluh ted nese tvoje jmeno."], ["Don Marino", "U me se nedomlouva cena az po praci. Rodina te ochrani. Ty budes poslouchat."], ["Ty", "Chci vedet, co se stalo otci."], ["Don Marino", "Nejdriv mi dokaz, ze dokazes drzet volant a jazyk. Russo ma v pristavu auto, ktere patri nam."], ["Vinnie", "Za kazdou zakazkou je podpis. Az budes pripraven, F8. Prvni odvoz je tvoje vstupenka."]]},
+    {"type": "goto", "x": -63.81, "y": 72.29, "z": 3.09, "radius": 9, "text": "Najdi rodinny servis Neon Coast Customs. Tady se opravuji auta, na ktera se policie moc diva."},
+    {"type": "cutscene", "lines": [["Mechanik", "Marino plati v hotovosti. Zadna jmena v knize. Ale oprava neni kouzlo: policii musis nejdriv ztratit."], ["Ty", "A muj otec?"], ["Mechanik", "Zeptej se, komu tu noc veril. Ne toho, pro koho ridil."], ["Vinnie", "Lekce skoncila. F8 ti otevre prvni zakazku pro Dona."]]}
+   ]
+  },
+  {
+   "id": "mafia_debt", "title": "Kapitola: Obalka pro mlceni", "reward": 3500, "requires": ["mafia_intro", "m2"],
+   "giver": {"x": -69.5, "y": 88.1, "z": 3.06},
+   "steps": [
+    {"type": "goto", "x": -69.5, "y": 88.1, "z": 3.06, "radius": 8, "text": "Vrat se k Marinovi pro dalsi rozkaz."},
+    {"type": "cutscene", "lines": [["Don Marino", "Russo si kupuje nase lidi. V obchode maji jeho penize. Vezmes je a nechas jim vzkaz."], ["Sara", "Ten obchod plati obema rodinam. Nezamen vypalne za loajalitu."], ["Vinnie", "Nabitou zbran na pokladnu, E a drz ji sest sekund. Pak zmiz. Don nechce policii pred restauraci."], ["Ty", "A obchodnik?"], ["Don Marino", "Zivy clovek muze zaplatit i pristi mesic."]]},
+    {"type": "rob", "business": "NC2_Int_Shop", "x": -138.25, "y": 98.275, "z": 3.18, "text": "Prepadni pokladnu: mir nabitou zbrani, stiskni E a vydrz 6 sekund."},
+    {"type": "lose_wanted", "text": "Ztrat policii. K Donovi nesmis privest hlidky."},
+    {"type": "goto", "x": -69.5, "y": 88.1, "z": 3.06, "radius": 8, "text": "Dones zpravu Donovi Marinovi."},
+    {"type": "cutscene", "lines": [["Don Marino", "Penize nejsou dulezite. Dulezite je, ze mesto vidi, komu patri ulice."], ["Sara", "Tvuj otec chtel odejit. Obalka nebyla kradez. Byly v ni dukazy."], ["Ty", "A kdo ho zastavil?"], ["Sara", "Podivej se, kdo dnes pocita tvoji odmenu."]]}
+   ]
+  },
+  {
+   "id": "mafia_ledger", "title": "Kapitola: Dve ucetni knihy", "reward": 6000, "requires": ["mafia_debt", "m5"],
+   "giver": {"x": -69.5, "y": 88.1, "z": 3.06},
+   "steps": [
+    {"type": "goto", "x": -177.38, "y": 97.075, "z": 3.25, "radius": 8, "text": "Najdi Saru u bytu. Tentokrat to neni Donova zakazka."},
+    {"type": "cutscene", "lines": [["Sara", "Banka vede dve knihy. V jedne jsou restaurace. V druhe vypalne, zbrane a policajti na vyplatni listine."], ["Ty", "Vinnie je v ni taky?"], ["Sara", "U tveho otce je jeho podpis. Potrebujeme opis, ne dalsi mrtve telo."], ["Ty", "Jestli je to pravda, Don mi dluzi odpoved."]]},
+    {"type": "visit", "business": "NC2_Int_Bank", "x": -95.05, "y": 124.5, "z": 3.18, "text": "Vstup pres E do banky. Pokladnu nech byt."},
+    {"type": "collect", "x": -95.05, "y": 124.5, "z": 3.3, "text": "Seber oznaceny opis ucetni knihy."},
+    {"type": "lose_wanted", "text": "Zmiz z dohledu policie, nez dones dukazy Sare."},
+    {"type": "visit", "business": "NC2_Int_Apartment", "x": -177.38, "y": 97.075, "z": 3.25, "text": "Vstup do bytu a predej ucetni knihu."},
+    {"type": "cutscene", "lines": [["Sara", "Vinnie zaplatil Russovi za prepadeni. Don o tom vedel. Tvuj otec nebyl zradce."], ["Ty", "Vsechno, co jsem pro ne udelal..."], ["Sara", "Ted vis, za co rodina skutecne plati. Dokonci valku, ale nenech si koupit vlastni jmeno."]]}
+   ]
+  },
+  {
+   "id": "mafia_oath", "title": "Epilog: Rodina neni alibi", "reward": 10000, "requires": ["mafia_ledger", "m8"],
+   "giver": {"x": -69.5, "y": 88.1, "z": 3.06},
+   "steps": [
+    {"type": "goto", "x": -69.5, "y": 88.1, "z": 3.06, "radius": 8, "text": "Vrat se k Marinovi. Tentokrat prinasis vlastni podminky."},
+    {"type": "cutscene", "lines": [["Don Marino", "Russo je pryc. Pristav, kluby i servis patri nam. Rekl jsem ti, ze budes rodina."], ["Ty", "Rodina neprodava vlastniho ridice. Mam knihy. I Vinnieho podpis."], ["Vinnie", "Dej sem tu obalku. Nevis, s kym mluvis."], ["Ty", "Vim presne. Od ted zadne rozkazy zadarmo a zadne dluhy po otci."], ["Don Marino", "Neon Coast nema ciste ruce. Ani ty."], ["Sara", "Ale dnes si poprve vybira, koho bude poslouchat."]]},
+    {"type": "goto", "x": -177.38, "y": 97.075, "z": 3.25, "radius": 8, "text": "Odjed k Sare. Hlavni pribeh konci, mesto zustava otevrene."},
+    {"type": "cutscene", "lines": [["Sara", "Don bude cekat na chybu. Policie na priznani. Mesto na dalsi noc."], ["Ty", "At cekaji. Dnes ridim sam za sebe."], ["Neon Coast", "KONEC MAFIANSKEHO PRIBEHU. Volna hra, sluzby a vedlejsi zakazky pokracuji."]]}
+   ]
+  }
+ ]
+}

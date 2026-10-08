@@ -1,0 +1,665 @@
+{
+ "missions": [
+  {
+   "id": "m1",
+   "title": "Novy ve meste",
+   "reward": 1500,
+   "requires": [],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Vinnie",
+       "Tak ty jsi ten novej? Don Marino te chce videt."
+      ],
+      [
+       "Don Marino",
+       "Vinnie rika, ze umis rizit. Uvidime."
+      ],
+      [
+       "Don Marino",
+       "V pristavu stoji sporak, co patri Russovym. Chci ho."
+      ],
+      [
+       "Ty",
+       "A co z toho budu mit?"
+      ],
+      [
+       "Don Marino",
+       "Respekt. A patnact set v hotovosti."
+      ]
+     ]
+    },
+    {
+     "type": "steal",
+     "vehicle": "NC2_Car_Sport_A",
+     "text": "Ukradni sporak v pristavu",
+     "x": 1377.95,
+     "y": 237.4,
+     "z": 3.0
+    },
+    {
+     "type": "deliver",
+     "text": "Doves ho do garaze za restauraci Marino's",
+     "radius": 12,
+     "intact": 0.0,
+     "x": -69.5,
+     "y": 115.25,
+     "z": 2.7
+    },
+    {
+     "type": "lose_wanted",
+     "text": "Setres policii"
+    },
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Vinnie",
+       "Hezka prace. Russo bude zurit."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m2",
+   "title": "Vypalne",
+   "reward": 2500,
+   "requires": [
+    "m1"
+   ],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Don Marino",
+       "Podniky v okoli nam plati za ochranu. Nekteri na to zapomneli."
+      ],
+      [
+       "Vinnie",
+       "Zajed do baru, do marketu a k hadrum. Slusne jim to pripomen."
+      ]
+     ]
+    },
+    {
+     "type": "goto",
+     "text": "Bar Neon Nights",
+     "radius": 6,
+     "x": -158.31,
+     "y": 89.1,
+     "z": 3.04
+    },
+    {
+     "type": "goto",
+     "text": "24/7 Neon Mart",
+     "radius": 6,
+     "x": -138.25,
+     "y": 89.1,
+     "z": 3.01
+    },
+    {
+     "type": "goto",
+     "text": "Neon Threads",
+     "radius": 6,
+     "x": -194.9,
+     "y": 124.5,
+     "z": 3.21
+    },
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Russuv muz",
+       "Tahle ulice patri Russovi! Chlapi, na nej!"
+      ]
+     ]
+    },
+    {
+     "type": "kill",
+     "text": "Zbav se Russovych muzu",
+     "enemies": [
+      [
+       -195.9,
+       124.5,
+       3.13
+      ],
+      [
+       -209.4,
+       132.29,
+       3.15
+      ],
+      [
+       -209.4,
+       116.71,
+       3.14
+      ]
+     ],
+     "x": -204.9,
+     "y": 124.5,
+     "z": 3.14
+    },
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Vinnie",
+       "Penize mame. A Russo ted vi, kdo jsi."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m3",
+   "title": "Ucetni",
+   "reward": 4000,
+   "requires": [
+    "m2"
+   ],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Don Marino",
+       "Muj ucetni Paolo musi do kasina Neon Palace. Dohlednes na nej."
+      ],
+      [
+       "Paolo",
+       "Hlavne opatrne, v kufru mam cely ucetnictvi rodiny."
+      ]
+     ]
+    },
+    {
+     "type": "timer",
+     "seconds": 240
+    },
+    {
+     "type": "goto",
+     "text": "Odvez Paola ke kasinu Neon Palace",
+     "radius": 12,
+     "x": -249.5,
+     "y": 73.9,
+     "z": 3.13
+    },
+    {
+     "type": "kill",
+     "text": "Russo na vas cekal! Branit se!",
+     "enemies": [
+      [
+       -237.5,
+       81.9,
+       3.14
+      ],
+      [
+       -249.5,
+       93.9,
+       3.34
+      ],
+      [
+       -261.5,
+       81.9,
+       3.16
+      ],
+      [
+       -249.5,
+       69.9,
+       3.13
+      ]
+     ],
+     "x": -249.5,
+     "y": 81.9,
+     "z": 3.15
+    },
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Paolo",
+       "Dekuju... myslel jsem, ze je po me."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "m4",
+   "title": "Zasilka po mori",
+   "reward": 6000,
+   "requires": [
+    "m3"
+   ],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Vinnie",
+       "Na mori ceka lod s nasi zasilkou. Vezmi clun v marine."
+      ],
+      [
+       "Vinnie",
+       "A pozor na pobrezni straz."
+      ]
+     ]
+    },
+    {
+     "type": "goto",
+     "text": "Jdi k clunum v marine",
+     "radius": 20,
+     "x": -891.6,
+     "y": -92.18,
+     "z": -4.5
+    },
+    {
+     "type": "goto",
+     "text": "Dopluj k lodi na kotviste",
+     "radius": 60,
+     "x": 1040.0,
+     "y": -946.0,
+     "z": 0.0
+    },
+    {
+     "type": "collect",
+     "text": "Seber balik",
+     "x": 1055.0,
+     "y": -946.0,
+     "z": 0.5
+    },
+    {
+     "type": "lose_wanted",
+     "text": "Utec pobrezni strazi"
+    },
+    {
+     "type": "goto",
+     "text": "Vrat se k Marinovi",
+     "radius": 10,
+     "x": -69.5,
+     "y": 88.1,
+     "z": 3.06
+    }
+   ]
+  },
+  {
+   "id": "m5",
+   "title": "Zradce v Club Vice",
+   "reward": 7000,
+   "requires": [
+    "m4"
+   ],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Don Marino",
+       "Tony nas prodava Russovi. Dnes je v Club Vice."
+      ],
+      [
+       "Don Marino",
+       "Najdi ho. A at uz nikdy nemluvi."
+      ]
+     ]
+    },
+    {
+     "type": "goto",
+     "text": "Jdi do Club Vice",
+     "radius": 8,
+     "x": -69.5,
+     "y": 159.9,
+     "z": 1.47
+    },
+    {
+     "type": "goto",
+     "text": "Najdi Tonyho u baru",
+     "radius": 4,
+     "x": -77.0,
+     "y": 147.67,
+     "z": 2.06
+    },
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Tony",
+       "Ty? Marino te poslal?! Chlapi, pomoc!"
+      ]
+     ]
+    },
+    {
+     "type": "kill",
+     "text": "Tony a jeho ochranka",
+     "enemies": [
+      [
+       -63.5,
+       147.67,
+       1.55
+      ],
+      [
+       -67.5,
+       151.67,
+       1.63
+      ],
+      [
+       -71.5,
+       147.67,
+       1.98
+      ],
+      [
+       -67.5,
+       143.67,
+       1.88
+      ]
+     ],
+     "x": -67.5,
+     "y": 147.67,
+     "z": 2.06
+    },
+    {
+     "type": "lose_wanted",
+     "text": "Zmiz z klubu a setres policii"
+    }
+   ]
+  },
+  {
+   "id": "m6",
+   "title": "Poklad na dne",
+   "reward": 9000,
+   "requires": [
+    "m5"
+   ],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Vinnie",
+       "Russo schoval zbrane ve vraku na dne."
+      ],
+      [
+       "Vinnie",
+       "V marine mame ponorku. Doplavej tam."
+      ]
+     ]
+    },
+    {
+     "type": "goto",
+     "text": "Najdi vrak (ponorka je na konci mola)",
+     "radius": 30,
+     "x": 71.62,
+     "y": -641.22,
+     "z": -10.14
+    },
+    {
+     "type": "collect",
+     "text": "Seber Russovu zasilku",
+     "x": 65.62,
+     "y": -641.22,
+     "z": -10.14
+    },
+    {
+     "type": "goto",
+     "text": "Vrat se k Marinovi",
+     "radius": 10,
+     "x": -69.5,
+     "y": 88.1,
+     "z": 3.06
+    }
+   ]
+  },
+  {
+   "id": "m7",
+   "title": "Let do nikam",
+   "reward": 12000,
+   "requires": [
+    "m6"
+   ],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Don Marino",
+       "Russo chce utect letadlem. Na letisti."
+      ],
+      [
+       "Don Marino",
+       "Nesmi odletet."
+      ]
+     ]
+    },
+    {
+     "type": "timer",
+     "seconds": 300
+    },
+    {
+     "type": "goto",
+     "text": "Jed na letiste",
+     "radius": 60,
+     "x": 548.09,
+     "y": -322.05,
+     "z": 3.5
+    },
+    {
+     "type": "kill",
+     "text": "Zastav Russovy pilotu a ochranku",
+     "enemies": [
+      [
+       566.09,
+       -322.05,
+       3.5
+      ],
+      [
+       553.65,
+       -304.93,
+       3.5
+      ],
+      [
+       533.53,
+       -311.47,
+       3.5
+      ],
+      [
+       533.53,
+       -332.63,
+       3.5
+      ],
+      [
+       553.65,
+       -339.17,
+       3.5
+      ]
+     ],
+     "x": 548.09,
+     "y": -322.05,
+     "z": 3.5
+    },
+    {
+     "type": "lose_wanted",
+     "text": "Setres policii"
+    }
+   ]
+  },
+  {
+   "id": "m8",
+   "title": "Valka rodin",
+   "reward": 50000,
+   "requires": [
+    "m7"
+   ],
+   "giver": {
+    "x": -69.5,
+    "y": 88.1,
+    "z": 3.06
+   },
+   "steps": [
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Don Marino",
+       "Je cas to ukoncit. Carlo Russo se skryva ve vile v resortu."
+      ],
+      [
+       "Vinnie",
+       "Beru brokovnici. Ty ridis."
+      ]
+     ]
+    },
+    {
+     "type": "goto",
+     "text": "Jed k Russove vile v resortu",
+     "radius": 40,
+     "x": -346.21,
+     "y": -337.02,
+     "z": 2.52
+    },
+    {
+     "type": "kill",
+     "text": "Zlikviduj Russovu armadu",
+     "enemies": [
+      [
+       -326.21,
+       -337.02,
+       -0.65
+      ],
+      [
+       -332.07,
+       -322.88,
+       2.47
+      ],
+      [
+       -346.21,
+       -317.02,
+       2.6
+      ],
+      [
+       -360.35,
+       -322.88,
+       2.6
+      ],
+      [
+       -366.21,
+       -337.02,
+       2.6
+      ],
+      [
+       -360.35,
+       -351.16,
+       2.6
+      ],
+      [
+       -346.21,
+       -357.02,
+       2.53
+      ],
+      [
+       -332.07,
+       -351.16,
+       -1.04
+      ],
+      [
+       -338.21,
+       -337.02,
+       2.05
+      ],
+      [
+       -346.21,
+       -329.02,
+       2.58
+      ],
+      [
+       -354.21,
+       -337.02,
+       2.6
+      ],
+      [
+       -346.21,
+       -345.02,
+       2.45
+      ]
+     ],
+     "x": -346.21,
+     "y": -337.02,
+     "z": 2.52
+    },
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Carlo Russo",
+       "Tohle... jeste neni konec, Marino..."
+      ],
+      [
+       "Ty",
+       "Pro tebe jo."
+      ]
+     ]
+    },
+    {
+     "type": "lose_wanted",
+     "text": "Setres policii"
+    },
+    {
+     "type": "goto",
+     "text": "Vrat se k Donu Marinovi",
+     "radius": 10,
+     "x": -69.5,
+     "y": 88.1,
+     "z": 3.06
+    },
+    {
+     "type": "talk",
+     "lines": [
+      [
+       "Don Marino",
+       "Neon Coast je nase. A ty jsi ted rodina."
+      ],
+      [
+       "Don Marino",
+       "KONEC PRIBEHU - mesto je tvoje, volna hra pokracuje."
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

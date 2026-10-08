@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Neon Coast Runtime",
+	"Description": "Neon Coast gameplay: drivable Chaos vehicles (4x4 / offroad / crash deformation), enter-exit & carjacking, deterministic network-friendly traffic and pedestrian crowds.",
+	"Category": "Gameplay",
+	"CreatedBy": "Neon Coast",
+	"CanContainContent": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NeonCoastRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{ "Name": "ChaosVehiclesPlugin", "Enabled": true },
+		{ "Name": "EnhancedInput", "Enabled": true }
+	]
+}
